@@ -9,7 +9,7 @@ public class ContBancar implements IContCloneable {
 
     public ContBancar(String detinator, Map<String, Integer> documente, int nrFileDosar) {
         int sum=0;
-        for(ContBancar file:){
+        for(ContBancar file: ){
             sum+=
         }
         if(sum==nrFileDosar){
