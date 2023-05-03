@@ -1,4 +1,4 @@
-package Clase;
+package Facade;
 
 public class Pacient {
     private String nume;
